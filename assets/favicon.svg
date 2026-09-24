@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="18" fill="#006A5E"/>
-  <text x="32" y="42" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="27" font-weight="700" fill="#A4F2E2">PK</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#006A5E" rx="18"/><text x="32" y="42" fill="#A4F2E2" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="27" font-weight="700" text-anchor="middle">PK</text></svg>
