@@ -895,10 +895,6 @@ html:not(.js) .nav {
   background: var(--surface-1);
 }
 
-.project--link-only {
-  grid-template-columns: 1fr;
-}
-
 .project__media {
   display: grid;
   place-items: center;
