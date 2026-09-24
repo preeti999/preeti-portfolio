@@ -4,14 +4,9 @@ Personal portfolio website showcasing my projects, skills, experience, and conta
 
 ## Preview
 
-![Portfolio preview](assets/og-image.png)
+https://github.com/user-attachments/assets/2f1e9295-2204-40e3-947f-b68b01db4196
 
-## Project Screenshots
+## Resume
 
-| Car Trade | JSW Sales Saathi | News Reader |
-| --- | --- | --- |
-| ![Car Trade](assets/projects/car-trade.png) | ![JSW Sales Saathi](assets/projects/jsw-sales-saathi.png) | ![News Reader](assets/projects/news-reader.png) |
+[PreetiKumari_Android_Kotlin.pdf](https://github.com/user-attachments/files/32609991/PreetiKumari_Android_Kotlin.pdf)
 
-## Live Website
-
-[Visit the portfolio](https://preeti999.github.io/preeti-portfolio/)
